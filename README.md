@@ -1,10 +1,10 @@
 # Converting-Word-Document-to-CSV
 
-## OVERVIEW
+## Overview
 This repository contains python scripts and documentation for converting a word document to a CSV file. 
 This word document contains a list of award categoories. The goal is to convert the file to a csv, assign each categories to a unique ID and also have all the categories share the same programe ID.This script can be used for other files 
 
-## LIBRARIES NEEDED
+## Libraries Needed
 - python-docx
 - import csv
 - import uuid
